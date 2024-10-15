@@ -1,0 +1,1 @@
+{"dataset": "cub", "folder": "/datapath", "output_folder": "models", "num_ways": 3, "num_shots": 5, "num_shots_test": 15, "hidden_size": 64, "batch_size": 2, "num_steps": 5, "num_epochs": 400, "num_batches": 100, "step_size": 0.01, "first_order": false, "meta_lr": 0.001, "num_workers": 0, "verbose": true, "use_cuda": true, "seed": 42, "save_path": "/resultspath"}
